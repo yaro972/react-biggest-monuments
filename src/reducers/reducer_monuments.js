@@ -18,7 +18,7 @@ export default () => {
       "Description": "La construction du Burj Khalifa a commencé en 2004, avec l'extérieur achevée 5 ans plus tard en 2009. La structure primaire est en béton armé. Le bâtiment a été ouvert en 2010 dans le cadre d'un nouveau développement appelé Downtown Dubai. Le bâtiment a été nommé en l'honneur du souverain d'Abou Dhabi et président des Emirats Arabes Unis, Khalifa bin Zayed Al Nahyan. Burj Khalifa a été conçu par Adrian Smith, puis de Skidmore, Owings & Merrill (SOM), dont la firme a conçu la tour Willis et One World Trade Center. Hyder Consulting a été choisie pour être l'ingénieur superviseur avec NORR Group Consultants International Limited choisie pour superviser l'architecture du projet. La conception de Burj Khalifa est dérivée de systèmes de formation de motifs énoncés dans l'architecture islamique, incorporant des éléments culturels et historiques particuliers à la région, comme dans la Grande Mosquée de Samarra. Le plan en forme de Y est conçu pour un usage résidentiel et hôtel. Un système structurel noyau étayé est utilisé pour soutenir la hauteur du bâtiment, et le système de revêtement est conçu pour résister à des températures estivales de Dubaï. Il contient un total de 57 ascenseurs et 8 escaliers mécaniques.",
       "urlImg": "/assets/img/thumbnails/Burj_Khalifa.jpg",
       "altImg": "Le plus grand monument du monde",
-      "urlSource": "https://en.wikipedia.org/wiki/Burj_Khalifa."
+      "urlSource": "https://en.wikipedia.org/wiki/Burj_Khalifa"
     },
     {
       "id": 2,

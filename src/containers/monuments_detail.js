@@ -29,6 +29,7 @@ class MonumentDetail extends Component {
         <div className="row">
           <h6>Description</h6>
           <p className="desc">{selectedMonument.Description}</p>
+          <p className="infoSource">(Source: <a href={selectedMonument.urlSource}>{selectedMonument.urlSource} </a>)</p>
 
         </div>
       </div>

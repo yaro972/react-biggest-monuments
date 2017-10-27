@@ -10,3 +10,14 @@ h6 {
 .desc {
   font-size: .9rem;
 }
+
+.infoSource {
+  font-style: italic;
+  font-size: .7rem;
+}
+
+
+.infoSource a {
+  font-style: italic;
+  font-size: .7rem;
+}
