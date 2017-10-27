@@ -1,6 +1,6 @@
-Biggest monuments details
+Hightest monuments details
 =
-Application React/Redux de présentation des plus grands monuments du monde.
+Application React/Redux de présentation des plus hauts monuments du monde.
 
 ![biggest_monuments](https://user-images.githubusercontent.com/16259029/32124286-888242b0-bb67-11e7-91f8-13c2c2738ddd.PNG)
 
