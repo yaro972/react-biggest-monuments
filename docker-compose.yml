@@ -1,0 +1,22 @@
+version: '2'
+services:
+  biggest-monuments:
+    build: .
+    ports:
+      - "80:80"
+      - "443:443"
+      - "8080:8080"
+    environment:
+      NODE_ENV: dev
+    volumes:
+      - .:/usr/app
+
+  ngnix:
+    image: nginx:latest
+    links:
+      - biggest-monuments
+    depends_on:
+      - biggest-monuments
+    ports:
+      - "81:80"
+
