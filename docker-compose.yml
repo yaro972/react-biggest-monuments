@@ -1,7 +1,9 @@
 version: '2'
 services:
   biggest-monuments:
-    build: .
+    image: node:8.8-alpine
+    working_dir: /app
+    command: npm start
     ports:
       - "80:80"
       - "443:443"
@@ -9,7 +11,7 @@ services:
     environment:
       NODE_ENV: dev
     volumes:
-      - .:/usr/app
+      - .:/app
 
   ngnix:
     image: nginx:latest
